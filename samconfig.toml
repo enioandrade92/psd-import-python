@@ -1,0 +1,22 @@
+version = 0.1
+[staging.deploy.parameters]
+stack_name = "psd-broker"
+resolve_s3 = true
+s3_prefix = "psd-broker"
+region = "us-east-2"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+parameter_overrides = "EnvironmentValue=\"staging\""
+image_repositories = []
+
+[default.deploy.parameters]
+stack_name = "psd-broker"
+resolve_s3 = true
+s3_prefix = "psd-broker"
+region = "us-east-2"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+parameter_overrides = "EnvironmentValue=\"staging\""
+image_repositories = []

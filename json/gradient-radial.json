@@ -1,0 +1,347 @@
+{
+    "width": 1080,
+    "height": 1080,
+    "pages": [
+        {
+            "id": "page:c3ace0cb-8f4e-424d-a258-b51e97c6fde6",
+            "name": "Page 1",
+            "elements": [
+                {
+                    "id": "image:3ee1f20b-0631-4fc8-bc2c-fc1e9cc2e0db",
+                    "type": "image",
+                    "name": "Background",
+                    "props": {
+                        "width": 1080,
+                        "height": 1080,
+                        "x": 0,
+                        "y": 0,
+                        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAQ4CAIAAABjcvvYAAAWyklEQVR4nO3XMQEAIAzAMMC/5/FjgB6Jgr7dM7MAAABKzu8AAACAl1EBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADkXeK0LbaozarQAAAAASUVORK5CYII=",
+                        "opacity": 1.0,
+                        "visible": true,
+                        "stroke": null,
+                        "strokeWidth": null,
+                        "origination": "[]",
+                        "effects": [],
+                        "children": []
+                    }
+                },
+                {
+                    "id": "rect:f30f415e-ddf4-46b1-ae2e-a7872d587ead",
+                    "type": "rect",
+                    "name": "Rectangle-1",
+                    "props": {
+                        "width": 711,
+                        "height": 161,
+                        "x": 176,
+                        "y": 228,
+                        "cornerRadius": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "resolution": 300.0,
+                        "index": 0,
+                        "opacity": 1.0,
+                        "visible": true,
+                        "fill": null,
+                        "stroke": "rgb(0, 0, 0)",
+                        "strokeWidth": 1.0,
+                        "effects": [
+                            {
+                                "id": "linearGradient:16af8d7d-ccd0-4008-a08b-052a4382afc1",
+                                "type": "linearGradient",
+                                "fillLinearGradientEndPoint": {
+                                    "x": 0.0,
+                                    "y": 0.0
+                                },
+                                "fillLinearGradientStartPoint": {
+                                    "x": 4.353619370968841e-14,
+                                    "y": 161.0
+                                },
+                                "fillLinearGradientColorStops": [
+                                    0.0,
+                                    "rgb(0, 0, 0)",
+                                    0.270263671875,
+                                    "rgb(36, 235, 172)",
+                                    0.739501953125,
+                                    "rgb(16, 16, 205)",
+                                    1.0,
+                                    "rgb(255, 255, 255)"
+                                ],
+                                "fillLinearGradientEnabled": true
+                            }
+                        ],
+                        "children": []
+                    }
+                },
+                {
+                    "id": "text:8bc8d7f2-f7d5-4c2c-abbc-feb72d1db7d7",
+                    "type": "text",
+                    "name": "Agora-vai",
+                    "props": {
+                        "width": 289,
+                        "height": 76,
+                        "x": 386,
+                        "y": 535,
+                        "texts": [
+                            {
+                                "text": "A",
+                                "fontFamily": "MyriadPro-Regular",
+                                "fontSize": 75.0,
+                                "fontBold": false,
+                                "fontItalic": false,
+                                "fontUnderline": false,
+                                "fill": "rgba(253, 66, 2, 1.0)",
+                                "stroke": "rgba(0, 0, 0, 1.0)",
+                                "AutoLeading": true,
+                                "Leading": "0.01",
+                                "HorizontalScale": "1.0",
+                                "VerticalScale": "1.15",
+                                "Tracking": "0",
+                                "AutoKerning": "False",
+                                "Kerning": "0",
+                                "BaselineShift": "0.0",
+                                "FontCaps": "0",
+                                "FontBaseline": "0",
+                                "Strikethrough": "False",
+                                "Ligatures": "False",
+                                "DLigatures": "False",
+                                "BaselineDirection": "1",
+                                "Tsume": "0.0",
+                                "StyleRunAlignment": "2",
+                                "Language": "0",
+                                "NoBreak": "False",
+                                "YUnderline": "1",
+                                "HindiNumbers": "False",
+                                "Kashida": "1"
+                            },
+                            {
+                                "text": "gora vai\r",
+                                "fontFamily": "MyriadPro-Regular",
+                                "fontSize": 75.0,
+                                "fontBold": false,
+                                "fontItalic": false,
+                                "fontUnderline": false,
+                                "fill": "rgba(253, 66, 2, 1.0)",
+                                "stroke": "rgba(0, 0, 0, 1.0)",
+                                "AutoLeading": true,
+                                "Leading": "0.01",
+                                "HorizontalScale": "1.0",
+                                "VerticalScale": "1.15",
+                                "Tracking": "0",
+                                "AutoKerning": "True",
+                                "Kerning": "0",
+                                "BaselineShift": "0.0",
+                                "FontCaps": "0",
+                                "FontBaseline": "0",
+                                "Strikethrough": "False",
+                                "Ligatures": "False",
+                                "DLigatures": "False",
+                                "BaselineDirection": "1",
+                                "Tsume": "0.0",
+                                "StyleRunAlignment": "2",
+                                "Language": "0",
+                                "NoBreak": "False",
+                                "YUnderline": "1",
+                                "HindiNumbers": "False",
+                                "Kashida": "1"
+                            }
+                        ],
+                        "opacity": 1.0,
+                        "visible": true,
+                        "stroke": null,
+                        "strokeWidth": null,
+                        "fill": "rgba(0, 0, 0, 1.0)",
+                        "origination": "[]",
+                        "effects": [
+                            {
+                                "id": "linearGradient:119003a8-bd57-410c-8a9e-8ae15549776d",
+                                "type": "linearGradient",
+                                "fillLinearGradientEndPoint": {
+                                    "x": 0.0,
+                                    "y": 0.0
+                                },
+                                "fillLinearGradientStartPoint": {
+                                    "x": 1.7696146247679254e-14,
+                                    "y": 76.0
+                                },
+                                "fillLinearGradientColorStops": [
+                                    0.0,
+                                    "rgb(18, 213, 223)",
+                                    0.346923828125,
+                                    "rgb(36, 36, 190)",
+                                    0.695068359375,
+                                    "rgb(33, 207, 86)",
+                                    1.0,
+                                    "rgb(247, 15, 255)"
+                                ],
+                                "fillLinearGradientEnabled": true
+                            }
+                        ],
+                        "children": []
+                    }
+                },
+                {
+                    "id": "text:858e7f02-5d7e-4ca9-90d4-c55f468692bd",
+                    "type": "text",
+                    "name": "Esse-e-com-radial",
+                    "props": {
+                        "width": 520,
+                        "height": 62,
+                        "x": 280,
+                        "y": 765,
+                        "texts": [
+                            {
+                                "text": "E",
+                                "fontFamily": "MyriadPro-Regular",
+                                "fontSize": 75.0,
+                                "fontBold": false,
+                                "fontItalic": false,
+                                "fontUnderline": false,
+                                "fill": "rgba(253, 66, 2, 1.0)",
+                                "stroke": "rgba(0, 0, 0, 1.0)",
+                                "AutoLeading": true,
+                                "Leading": "90.0",
+                                "HorizontalScale": "1.0",
+                                "VerticalScale": "1.15",
+                                "Tracking": "0",
+                                "AutoKerning": "False",
+                                "Kerning": "0",
+                                "BaselineShift": "0.0",
+                                "FontCaps": "0",
+                                "FontBaseline": "0",
+                                "Strikethrough": "False",
+                                "Ligatures": "False",
+                                "DLigatures": "False",
+                                "BaselineDirection": "1",
+                                "Tsume": "0.0",
+                                "StyleRunAlignment": "2",
+                                "Language": "0",
+                                "NoBreak": "False",
+                                "YUnderline": "1",
+                                "HindiNumbers": "False",
+                                "Kashida": "1"
+                            },
+                            {
+                                "text": "sse \u00e9 com radial\r",
+                                "fontFamily": "MyriadPro-Regular",
+                                "fontSize": 75.0,
+                                "fontBold": false,
+                                "fontItalic": false,
+                                "fontUnderline": false,
+                                "fill": "rgba(253, 66, 2, 1.0)",
+                                "stroke": "rgba(0, 0, 0, 1.0)",
+                                "AutoLeading": true,
+                                "Leading": "90.0",
+                                "HorizontalScale": "1.0",
+                                "VerticalScale": "1.15",
+                                "Tracking": "0",
+                                "AutoKerning": "True",
+                                "Kerning": "0",
+                                "BaselineShift": "0.0",
+                                "FontCaps": "0",
+                                "FontBaseline": "0",
+                                "Strikethrough": "False",
+                                "Ligatures": "False",
+                                "DLigatures": "False",
+                                "BaselineDirection": "1",
+                                "Tsume": "0.0",
+                                "StyleRunAlignment": "2",
+                                "Language": "0",
+                                "NoBreak": "False",
+                                "YUnderline": "1",
+                                "HindiNumbers": "False",
+                                "Kashida": "1"
+                            }
+                        ],
+                        "opacity": 1.0,
+                        "visible": true,
+                        "stroke": null,
+                        "strokeWidth": null,
+                        "fill": "rgba(0, 0, 0, 1.0)",
+                        "origination": "[]",
+                        "effects": [
+                            {
+                                "id": "radialGradient:8b958c97-df13-49b1-bc46-26e423504775",
+                                "type": "radialGradient",
+                                "fillRadialGradientStartPoint": {
+                                    "x": 0.0,
+                                    "y": 0.0
+                                },
+                                "fillRadialGradientEndPoint": {
+                                    "x": 0.0,
+                                    "y": 0.0
+                                },
+                                "fillRadialGradientStartRadius": 0,
+                                "fillRadialGradientEndRadius": 100.0,
+                                "fillRadialGradientColorStops": [
+                                    0.0,
+                                    "rgb(18, 213, 223)",
+                                    0.346923828125,
+                                    "rgb(36, 36, 190)",
+                                    0.695068359375,
+                                    "rgb(33, 207, 86)",
+                                    1.0,
+                                    "rgb(247, 15, 255)"
+                                ]
+                            }
+                        ],
+                        "children": []
+                    }
+                },
+                {
+                    "id": "rect:c0777c08-5fea-4c03-8907-64894c9c3fea",
+                    "type": "rect",
+                    "name": "Rectangle-2",
+                    "props": {
+                        "width": 397,
+                        "height": 108,
+                        "x": 343,
+                        "y": 79,
+                        "cornerRadius": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "resolution": 300.0,
+                        "index": 0,
+                        "opacity": 1.0,
+                        "visible": true,
+                        "fill": null,
+                        "stroke": "rgb(0, 0, 0)",
+                        "strokeWidth": 1.0,
+                        "effects": [
+                            {
+                                "id": "radialGradient:ed91f006-ff02-4f7d-aa3d-756d792389b7",
+                                "type": "radialGradient",
+                                "fillRadialGradientStartPoint": {
+                                    "x": 0.0,
+                                    "y": 0.0
+                                },
+                                "fillRadialGradientEndPoint": {
+                                    "x": 0.0,
+                                    "y": 0.0
+                                },
+                                "fillRadialGradientStartRadius": 0,
+                                "fillRadialGradientEndRadius": 100.0,
+                                "fillRadialGradientColorStops": [
+                                    0.0,
+                                    "rgb(18, 213, 223)",
+                                    0.346923828125,
+                                    "rgb(36, 36, 190)",
+                                    0.695068359375,
+                                    "rgb(33, 207, 86)",
+                                    1.0,
+                                    "rgb(247, 15, 255)"
+                                ]
+                            }
+                        ],
+                        "children": []
+                    }
+                }
+            ]
+        }
+    ]
+}

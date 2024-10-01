@@ -1,0 +1,222 @@
+{
+    "width": 1080,
+    "height": 1080,
+    "pages": [
+        {
+            "id": "page:701d5edb-c0f7-449a-8ed2-7892ecd85c3d",
+            "name": "Page 1",
+            "elements": [
+                {
+                    "id": "image:9641fcd4-ac7c-4be5-8ab3-2cad9322907c",
+                    "type": "image",
+                    "name": "Background",
+                    "props": {
+                        "width": 1080,
+                        "height": 1080,
+                        "x": 0,
+                        "y": 0,
+                        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAQ4CAIAAABjcvvYAAAWyklEQVR4nO3XMQEAIAzAMMC/5/FjgB6Jgr7dM7MAAABKzu8AAACAl1EBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADlGBQAAyDEqAABAjlEBAAByjAoAAJBjVAAAgByjAgAA5BgVAAAgx6gAAAA5RgUAAMgxKgAAQI5RAQAAcowKAACQY1QAAIAcowIAAOQYFQAAIMeoAAAAOUYFAADIMSoAAECOUQEAAHKMCgAAkGNUAACAHKMCAADkGBUAACDHqAAAADkXeK0LbaozarQAAAAASUVORK5CYII=",
+                        "opacity": 1.0,
+                        "visible": true,
+                        "stroke": null,
+                        "strokeWidth": null,
+                        "strokeEnabled": false,
+                        "origination": "[]",
+                        "effects": [],
+                        "children": []
+                    }
+                },
+                {
+                    "id": "text:c55e5ab6-bb95-4f09-bd1d-46e7e8bf5491",
+                    "type": "text",
+                    "name": "TESTE-TEXTO",
+                    "props": {
+                        "width": 486,
+                        "height": 60,
+                        "x": 297,
+                        "y": 62,
+                        "texts": [
+                            {
+                                "text": "T",
+                                "fontFamily": "Inter-Black",
+                                "fontSize": 48.0,
+                                "fontBold": false,
+                                "fontItalic": false,
+                                "fontUnderline": false,
+                                "fill": "rgba(253, 66, 2, 1.0)",
+                                "stroke": "rgba(0, 0, 0, 1.0)",
+                                "AutoLeading": true,
+                                "Leading": 0.01,
+                                "HorizontalScale": 1.0,
+                                "VerticalScale": 1.15,
+                                "Tracking": 0.0,
+                                "AutoKerning": false,
+                                "Kerning": 0.0,
+                                "BaselineShift": 0.0,
+                                "FontCaps": 0.0,
+                                "FontBaseline": 0.0,
+                                "Strikethrough": false,
+                                "Ligatures": false,
+                                "DLigatures": false,
+                                "BaselineDirection": 1.0,
+                                "Tsume": 0.0,
+                                "StyleRunAlignment": 2.0,
+                                "NoBreak": false,
+                                "YUnderline": 1.0,
+                                "HindiNumbers": false,
+                                "Kashida": 1.0
+                            },
+                            {
+                                "text": "ESTE TEXTO\r",
+                                "fontFamily": "Inter-Black",
+                                "fontSize": 48.0,
+                                "fontBold": false,
+                                "fontItalic": false,
+                                "fontUnderline": false,
+                                "fill": "rgba(253, 66, 2, 1.0)",
+                                "stroke": "rgba(0, 0, 0, 1.0)",
+                                "AutoLeading": true,
+                                "Leading": 0.01,
+                                "HorizontalScale": 1.0,
+                                "VerticalScale": 1.15,
+                                "Tracking": 0.0,
+                                "AutoKerning": true,
+                                "Kerning": 0.0,
+                                "BaselineShift": 0.0,
+                                "FontCaps": 0.0,
+                                "FontBaseline": 0.0,
+                                "Strikethrough": false,
+                                "Ligatures": false,
+                                "DLigatures": false,
+                                "BaselineDirection": 1.0,
+                                "Tsume": 0.0,
+                                "StyleRunAlignment": 2.0,
+                                "NoBreak": false,
+                                "YUnderline": 1.0,
+                                "HindiNumbers": false,
+                                "Kashida": 1.0
+                            }
+                        ],
+                        "opacity": 1.0,
+                        "visible": true,
+                        "stroke": null,
+                        "strokeWidth": null,
+                        "strokeEnabled": false,
+                        "fill": "rgba(0, 0, 0, 1.0)",
+                        "origination": "[]",
+                        "effects": [],
+                        "children": []
+                    }
+                },
+                {
+                    "id": "rect:12e9c679-cd59-4482-b52a-52be4adca438",
+                    "type": "rect",
+                    "name": "Rectangle-2",
+                    "props": {
+                        "cornerRadius": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "resolution": 299.99993896484375,
+                        "index": 0,
+                        "opacity": 1.0,
+                        "visible": true,
+                        "fill": null,
+                        "stroke": "rgb(0, 0, 0)",
+                        "strokeWidth": 1.0,
+                        "strokeEnabled": true,
+                        "effects": [
+                            {
+                                "id": "radialGradient:1aa1c63e-806b-4faf-8c64-3b68a57bb870",
+                                "type": "radialGradient",
+                                "fillRadialGradientStartPoint": {
+                                    "x": 93.0,
+                                    "y": 93.0
+                                },
+                                "fillRadialGradientEndPoint": {
+                                    "x": 186.0,
+                                    "y": 186.0
+                                },
+                                "fillRadialGradientStartRadius": 1.0,
+                                "fillRadialGradientColorStops": [
+                                    0.0,
+                                    "rgb(233, 165, 165)",
+                                    0.25,
+                                    "rgb(183, 193, 191)",
+                                    0.5,
+                                    "rgb(101, 191, 223)",
+                                    0.75,
+                                    "rgb(173, 161, 219)",
+                                    1.0,
+                                    "rgb(129, 193, 217)"
+                                ],
+                                "fillRadialGradientEnabled": true
+                            }
+                        ],
+                        "children": [],
+                        "width": 186.0,
+                        "height": 186.0,
+                        "rotation": 0.0,
+                        "flip_horizontal": false,
+                        "flip_vertical": false,
+                        "x": 447.0,
+                        "y": 238.0
+                    }
+                },
+                {
+                    "id": "rect:0841b7c9-87fd-40f9-baa3-a2aacede023e",
+                    "type": "rect",
+                    "name": "Rectangle-1",
+                    "props": {
+                        "cornerRadius": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "resolution": 299.99993896484375,
+                        "index": 0,
+                        "opacity": 1.0,
+                        "visible": true,
+                        "fill": null,
+                        "stroke": "rgb(0, 0, 0)",
+                        "strokeWidth": 1.0,
+                        "strokeEnabled": true,
+                        "effects": [
+                            {
+                                "id": "radialGradient:ea67a0a4-e8eb-4acc-9d99-93eba524138c",
+                                "type": "radialGradient",
+                                "fillRadialGradientStartPoint": {
+                                    "x": 211.5,
+                                    "y": 211.5
+                                },
+                                "fillRadialGradientEndPoint": {
+                                    "x": 423.0,
+                                    "y": 423.0
+                                },
+                                "fillRadialGradientStartRadius": 1.0,
+                                "fillRadialGradientColorStops": [
+                                    0.0,
+                                    "rgb(253, 83, 145)",
+                                    1.0,
+                                    "rgb(247, 111, 100)"
+                                ],
+                                "fillRadialGradientEnabled": true
+                            }
+                        ],
+                        "children": [],
+                        "width": 423.0,
+                        "height": 423.0,
+                        "rotation": 0.0,
+                        "flip_horizontal": false,
+                        "flip_vertical": false,
+                        "x": 328.0,
+                        "y": 540.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  screenshot-url
+
+  SAM project for midiacarros-psd-broker
+
+Parameters: 
+  EnvironmentValue: 
+    AllowedValues:
+      - "development"
+      - "staging"
+      - "production"
+    Default: "staging"
+    Description: "What environment is this?"
+    Type: String
+    
+Mappings: 
+  Environments:
+    development:
+      APIHOSTNAME: localhost:3000
+    staging:  
+      APIHOSTNAME: staging.midiacarros.com
+    production:  
+      APIHOSTNAME: api.midiacarros.com
+      
+Resources:
+  PsdBrokerFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: .
+      Handler: main.handler
+      Runtime: python3.12
+      MemorySize: 2048
+      Timeout: 120
+      Environment:
+        Variables:
+          API_HOSTNAME: !FindInMap [ Environments, !Ref EnvironmentValue, APIHOSTNAME ]
+      Policies:
+        - AWSLambdaExecute # Managed Policy
+        - Version: '2012-10-17' # Policy Document
+          Statement:
+            - Effect: Allow
+              Action:
+                - logs:CreateLogGroup
+                - logs:CreateLogStream
+                - logs:PutLogEvents
+                - s3:GetOBject
+                - s3:PutObject
+                - lambda:Getlayerversion
+              Resource: '*'
+      Events:
+        NewSQSEvent:
+          Type: SQS
+          Properties:
+            Queue: !GetAtt PsdBrokerQueue.Arn
+            BatchSize: 1
+      Layers:
+        - arn:aws:lambda:us-east-2:637423436326:layer:PsdTools:4
+
+
+  PsdBrokerQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: !Sub 'mdc-${EnvironmentValue}-psd-broker'
+      VisibilityTimeout: 150
+      MessageRetentionPeriod: 300
